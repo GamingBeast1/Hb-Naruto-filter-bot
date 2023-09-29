@@ -8,7 +8,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝑁𝑎𝑟𝑢𝑡𝑜-𝐻𝑏𝑏𝑜𝑡𝑧-𝑇𝑒𝑎𝑚!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+𝐸𝑘𝑎𝑚𝑝𝑟𝑒𝑒𝑡+𝑆𝑖𝑛𝑔ℎ!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
 </p>
 
-<a href="https://github.com/Naruto643/Hbbotz-Team/stargazers"><img src="https://img.shields.io/github/stars/Naruto643/Hbbotz-Team?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/GamingBeast1/Hb-Naruto-filter-bot"><img src="https://te.legra.ph/file/d1e417bffff77e3a20019.jpg" alt="Stars" /></a>
 <a href="https://github.com/Naruto643/Hbbotz-Team/tree/main/network/members"> <img src="https://img.shields.io/github/forks/Naruto643/Hbbotz-Team?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/Naruto643/Hbbotz-Team"> <img src="https://img.shields.io/github/repo-size/Naruto643/Hbbotz-Team?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
 <a href="https://github.com/Naruto643/Hbbotz-Team/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/Naruto643/Hbbotz-Team?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
