@@ -8,12 +8,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝑁𝑎𝑟𝑢𝑡𝑜-𝐻𝑏𝑏𝑜𝑡𝑧-𝑇𝑒𝑎𝑚!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+𝐸𝑘𝑎𝑚𝑝𝑟𝑒𝑒𝑡+𝑆𝑖𝑛𝑔ℎ!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
 </p>
 
-<a href="https://github.com/GamingBeast1/Hb-Naruto-filter-bot"><img src="https://te.legra.ph/file/d1e417bffff77e3a20019.jpg" alt="Stars" /></a>
-<a href="https://github.com/Naruto643/Hbbotz-Team/tree/main/network/members"> <img src="https://img.shields.io/github/forks/Naruto643/Hbbotz-Team?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Naruto643/Hbbotz-Team"> <img src="https://img.shields.io/github/repo-size/Naruto643/Hbbotz-Team?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/Naruto643/Hbbotz-Team/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/Naruto643/Hbbotz-Team?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/GamingBeast1/Hb-Naruto-filter-bot"><img src="https://img.shields.io/github/last-commit/Naruto643/Hbbotz-Team?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/GamingBeast1/Hb-Naruto-filter-bot/tree/main/network/members"> <img src="https://img.shields.io/github/forks/Naruto643/Hbbotz-Team?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/GamingBeast1/Hb-Naruto-filter-bot"> <img src="https://img.shields.io/github/repo-size/Naruto643/Hbbotz-Team?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
+<a href="https://github.com/GamingBeast1/Hb-Naruto-filter-bot/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/Naruto643/Hbbotz-Team?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/t/Naruto643/Hbbotz-Team"> <img src="https://img.shields.io/github/contributors/Naruto643/Hbbotz-Team?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Naruto643/Hbbotz-Team/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/GamingBeast1/Hb-Naruto-filter-bot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 
@@ -56,7 +56,7 @@
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/DQ_The_File_Donor_Updates'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/MoviesGalaxy01'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Joelkb/DQ-the-file-donor">
+<a href="https://heroku.com/deploy?template=https://github.com/GamingBeast1/Hb-Naruto-filter-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -140,7 +140,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=web&name=dqthefiledonor)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://github.com/GamingBeast1/Hb-Naruto-filter-bot&branch=web&name=Naruto bot)
 </details>
 
 <details><summary>Deploy To Render</summary>
